@@ -4,7 +4,7 @@
 🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on RTMS<br>🤝 I’m looking for help with Chat gpt<br>🌱 I’m currently learning Blockchain Networks<br>💬 Ask me about any curious/silly tech question I'll help you to find your answer<br>⚡ Fun fact : The First Computer Bug Was a Real Moth!
 
 
-## 🌐 Socials:
+## 🌐 Get in Touch:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/silent_lense) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/neeraj-singh-013-s02) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/N_13_S) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Neer4j) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Neer4j) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Neer4j) 
 
 # 💻 Tech Stack:
