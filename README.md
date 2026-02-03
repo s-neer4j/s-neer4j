@@ -1,19 +1,21 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Neeraj%20Singh&fontAlign=50&fontAlignY=35&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff" width="100%"/>
-
-<h3 align="center">🚀 UI/UX Designer • Full-Stack Developer • AI Explorer</h3>
+<!-- ===================== CYBER HEADER ===================== -->
 <p align="center">
-Crafting intelligent systems & beautiful interfaces.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NEERAJ%20SINGH&fontAlign=50&fontAlignY=45&animation=fadeIn&fontColor=00F5FF&color=0:000428,50:004e92,100:000428"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=00F5FF&center=true&vCenter=true&width=750&lines=Creative+Technologist;UI%2FUX+Architect;AI+System+Builder;Full+Stack+Engineer;Designing+Digital+Futures"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284103-7c64a2f2-53c8-4a76-bc1c-4b5bbfcd5089.gif" width="600"/>
 </p>
 
 ---
 
-## 🧠 About Me
-
-```yaml
-name: Neeraj Singh
-role: Designer + Developer Hybrid
-focus: AI Systems • Smart Crawlers • UI/UX • Web Platforms
-currently_building: "NEURO-NET – Smart Adaptive Web Crawler"
-learning: Blockchain • Distributed Systems • Advanced ML
-philosophy: "Design for Humans, Engineer for Scale"
+```diff
++ SYSTEM STATUS : ONLINE
++ CORE ID       : NS-13
++ MODE          : Creative × Engineering Hybrid
++ CURRENT BUILD : NEURO-NET — Smart Adaptive Crawler
++ SIGNAL        : STABLE
