@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=00F5FF&center=true&vCenter=true&width=700&lines=Creative+Technologist;UI%2FUX+Architect;AI+Systems+Builder;Designer+%C3%97+Engineer+Hybrid"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F5FF&center=true&vCenter=true&width=720&lines=Creative+Technologist;UI%2FUX+Architect;AI+Systems+Builder;Designer+%C3%97+Engineer;Building+Future+Interfaces"/>
 </p>
 
 <p align="center">
