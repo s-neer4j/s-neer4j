@@ -32,22 +32,6 @@ identity:
 
 ---
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ4c3V4bG9nZ2N4c2F0ZHZrM2V4b2o1eWJ2Z3J1eHZ6N2F1Z3I2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,python,nodejs,figma,aws,docker,mongodb,git,tailwind&perline=10"/>
-</p>
-
----
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
