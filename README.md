@@ -31,24 +31,23 @@ identity:
 ```
 
 ---
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s-neer4j&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=s-neer4j&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s-neer4j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=s-neer4j&theme=tokyonight&hide_border=true&background=00000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s-neer4j&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=s-neer4j&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-neer4j&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-neer4j&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
